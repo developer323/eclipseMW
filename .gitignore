@@ -8,8 +8,7 @@
 !src/**
 
 !lib
-!libs/**
-
+!lib/**
 
 !*.txt
 !*.md
